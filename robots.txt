@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ninjabeefactory.github.io/sitemap.xml
